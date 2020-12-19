@@ -1,0 +1,11 @@
+                      
+                             Inputs :
+      
+
+                   print "Enter integer number : ",int();
+                   print "Enter double number : ",double();
+                   print "Enter string value : ",string();
+
+                   Enter integer number : 2
+
+                   # Output : 2

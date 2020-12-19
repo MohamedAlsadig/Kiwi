@@ -1,0 +1,35 @@
+         
+
+                      Conditional Operators : 
+
+                      
+                   if (x > y){   print "Yes";    /* can use null , break , continue here. */   }
+                   else if (x < y){  print "No";  }
+                   else if (x = y){  print "equal";  }
+                   else {  print "No Thing !";  }
+                   
+                    
+                      int x =5;
+                    
+                      switch(x){
+
+                      case 1 :
+                      print "one";
+                      break;
+
+                      case 2:
+                      print "two";
+                      break;
+                 
+                      case 3 :
+                      print "three";
+                      break;
+
+                      case 4 :
+                      print "four";
+                      break;
+
+                      default :
+                      print "No Thing";
+
+                                       }

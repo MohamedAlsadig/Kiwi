@@ -1,0 +1,20 @@
+
+
+                 Exceptions handling : 
+
+
+                     try{
+          
+                        }               
+                  except{
+
+                        }
+
+                       OR
+                            
+                      try{
+
+                         } 
+ 
+                except (Error type){
+                          }

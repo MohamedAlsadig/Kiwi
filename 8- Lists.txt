@@ -1,0 +1,20 @@
+ 
+                               Lists : 
+              
+                          list1 {1,2,3,4,4,"Yes"};
+                          print(list1);
+
+                         # Output : {1,2,3,4,4,"Yes"}
+
+                         List Functions :
+
+                         list1.index(0);
+                         list1.add(10);
+                         list1.remove("Yes");
+                         list1.replace(2 = "Oemr");
+                         list1.clear();
+               
+
+
+
+

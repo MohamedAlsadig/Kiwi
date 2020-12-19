@@ -1,0 +1,51 @@
+
+                             Libraries :
+
+                        Functions Libraries : 
+  
+                      * Variables functions :
+                              .int();
+                              .double();
+                              .string();
+                              .list();         
+                         ----------------------
+                      * String functions : 
+                              lower();
+                              uper();
+                              list();
+
+                        ----------------------
+                        * Input functions :
+
+                              print(); 
+
+                       ----------------------
+                        * List functions : 
+                              index();
+                              add();
+                              remove();
+                              replace();
+                              clear();
+
+                       ----------------------
+                        * Files functions :
+                              open();
+                              add();
+                              clear();
+       
+                       ----------------------
+                      * Date & time function : 
+                              date();
+                              time();
+                              timer();
+                             format(); 
+       
+
+                             ...more
+ 
+
+
+
+                           
+
+                           

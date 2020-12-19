@@ -1,0 +1,7 @@
+
+
+                         Overriding : 
+
+                        void main(){
+                        colors[ myColor(){  string w = "White"; } ]
+                        color extends colors[  Override myColor(); ]  }

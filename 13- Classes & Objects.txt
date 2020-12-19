@@ -1,0 +1,12 @@
+
+                    OOP :
+
+                
+                import libName;
+
+                main(){ 
+                // class1[  // functions here .  ]
+  
+                colors[   string VarName ;    myColor(){   return VarName;    }     ]     
+   
+                //Object:      col = colors();   col.VarName="Green";  }

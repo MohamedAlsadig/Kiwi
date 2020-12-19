@@ -1,0 +1,45 @@
+               
+                                   Operators :
+
+
+                               Arithmetic Operators :
+               
+                                      int x =1;
+                                      int y =2;
+             
+                                    print(x+y);
+                                    print(x-y);
+                                    print(x*y);
+                                    print(x/y);
+                                    print(x%y) ; 
+                               
+
+
+                             Assignment operators : 
+
+                                       "  , " 
+                                       " = "
+
+                             Postfix operators : 
+
+                                      i++
+                                      i--
+
+                            Relational operators : 
+
+                                   print(x==y);
+                                   print(x!=y);
+                                   print(x<y);
+                                   print(x>y);
+                                   print(x>=y);
+                                   print(x<=y);
+               
+
+
+                           Logical operators : 
+
+
+                                    and   
+                                    or    
+                              
+ 

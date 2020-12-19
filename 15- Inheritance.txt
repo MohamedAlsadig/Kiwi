@@ -1,0 +1,12 @@
+ 
+            Inheritance :
+
+            main(){
+
+           colors [  string VarName ;    myColor(){   return VarName;  }  ]       
+           color extends colors[      ]    
+     
+           col =color();
+           col.VarName="Green";  
+
+                        }

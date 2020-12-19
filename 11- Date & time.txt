@@ -1,0 +1,36 @@
+
+               Date & time : 
+                
+
+               Function date & time :
+
+               date();
+               time();
+               timer();
+       
+
+               # How to use  date & time functions:
+
+               d = date();
+               d.format(yyyy(/ or -)mm(/ or -)dd);
+               d.format(yyyy(: or -)mm(: or -)dd);
+               d.format(dd(/ or -)mm(/ or -)yyyy);
+               d.format(dd(: or -)mm(: or -)yyyy);
+               print(d);
+
+
+
+               t = time();
+               t.format(hh:mm:ss);
+               t.format(hh:mm);
+               print(t);
+
+
+             
+               t = timer();
+               t.format(hh:mm:ss);
+               t.format(hh:mm);
+               print(t);
+
+                            
+             

@@ -1,0 +1,22 @@
+                   
+
+                     Files : 
+         
+             
+           file = open("test.txt");
+           print(file);
+   
+           file = open("test.txt",a);
+           print(file);
+
+           file = open("test.txt",c);
+           print(file);
+
+
+           // Notes :    
+               = open
+            a = add
+            c = clear
+         
+
+            

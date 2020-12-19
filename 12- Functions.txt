@@ -1,0 +1,12 @@
+
+
+                   Functions : 
+
+                    main(){ 
+
+                   funcName(){   // code here  }
+
+                   void funcName(){  print "Hello"; }
+             
+                
+

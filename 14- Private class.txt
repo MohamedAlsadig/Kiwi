@@ -1,0 +1,5 @@
+    
+
+                       Private class :
+
+                       main(){  myclass[  // No Object from this class for inheritance only.  ]  }

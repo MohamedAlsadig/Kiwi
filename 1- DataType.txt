@@ -1,0 +1,33 @@
+
+              
+                 Variables Types : 
+
+                       int 
+                       double
+                       string
+                 
+                       exp:
+
+                      int  x =1;
+                      int  y =2;
+
+                      print(x+y);
+
+                     # Output : 3
+           
+                      name = "Mohamed";
+                      print name;
+                      print name.lower();
+                      print name.uper();
+                      print name.list();
+                      print name.length();
+                      
+
+                     # Output : Mohamed
+                     # Output : mohamed
+                     # Output : MOHAMED 
+                     # Output : ["Mohamed"] 
+                     # Output : 7
+                   
+
+       

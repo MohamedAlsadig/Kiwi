@@ -1,2 +1,11 @@
-# Kiwi
-.لغة برمجية جاهزة للتطوير للعرب
+# Kiwi progamming language
+
+  
+
+  //
+  *All rights reserved to the Arabs.
+  //
+  
+  
+  
+ < Thanks >.
